@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1529960290 source:c:\users\joser\onedrive\documentos\2a\programacion i\proyecto chido final\proyecto - copy - copy - copy\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
+1529960290 source:c:\users\marie\downloads\wwwwww\proyecto finalllll\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
